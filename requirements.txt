@@ -3,7 +3,7 @@ numpy==2.3.5
 matplotlib==3.10.8
 pandas==2.3.3
 tqdm==4.67.1
-python-dotenv==1.2.1
+python-dotenv==1.2.2
 openai>=0.28.0
 tiktoken
 azure-ai-inference
